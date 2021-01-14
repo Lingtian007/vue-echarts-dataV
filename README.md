@@ -13,6 +13,8 @@
 1.  [Vue 官方文档](https://cn.vuejs.org/v2/guide/instance.html)
 2.  [DataV 官方文档](http://datav.jiaminghi.com/guide/)
 3.  [echarts 实例](https://echarts.apache.org/examples/zh/index.html)，[echarts API 文档](https://echarts.apache.org/zh/api.html#echarts)
+4.   ![效果图:](src/assets/图.png)
+  
 
 
 ## 二、主要文件介绍
